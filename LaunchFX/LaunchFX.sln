@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaunchFX", "LaunchFX\LaunchFX.csproj", "{C6F5BBB3-D74B-413E-9EF3-A3D1DE204C62}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaunchFX", "LaunchFX\LaunchFX.csproj", "{7D95C882-C58C-4850-BC92-81B0DF5CCBC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C6F5BBB3-D74B-413E-9EF3-A3D1DE204C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C6F5BBB3-D74B-413E-9EF3-A3D1DE204C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C6F5BBB3-D74B-413E-9EF3-A3D1DE204C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C6F5BBB3-D74B-413E-9EF3-A3D1DE204C62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D95C882-C58C-4850-BC92-81B0DF5CCBC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D95C882-C58C-4850-BC92-81B0DF5CCBC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D95C882-C58C-4850-BC92-81B0DF5CCBC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D95C882-C58C-4850-BC92-81B0DF5CCBC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C9770F6D-329B-4FC1-A761-98704A214789}
+		SolutionGuid = {F90038EC-E6A7-4601-A417-BFAC6CEE99A4}
 	EndGlobalSection
 EndGlobal
