@@ -63,6 +63,7 @@ if not exist "$(SolutionDir)\..\GameData\$(TargetName)" mkdir "$(SolutionDir)\..
 if not exist "$(SolutionDir)\..\GameData\$(TargetName)\Plugins" mkdir "$(SolutionDir)\..\GameData\$(TargetName)\Plugins\"
 
 copy /y $(TargetDir)$(TargetName)* $(SolutionDir)\..\GameData\$(TargetName)\Plugins 
-copy /y $(ProjectDir)$(TargetName).version $(SolutionDir)\..\GameData\$(TargetName)\</PostBuildEvent>
+copy /y $(ProjectDir)$(TargetName).version $(SolutionDir)\..\GameData\$(TargetName)\
+copy /y "$(ProjectDir)MM_LaunchFX.cfg" $(SolutionDir)\..\GameData\$(TargetName)\</PostBuildEvent>
   </PropertyGroup>
 </Project>
